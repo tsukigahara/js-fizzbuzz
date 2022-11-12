@@ -1,0 +1,37 @@
+
+body {
+    background-color: #484f56;
+}
+
+header {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+h1, h4 {
+    color: white;
+}
+
+main div {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.normal {
+    background-color: rgb(124, 132, 223);
+}
+
+.fizz {
+    background-color: rgb(100, 169, 107);
+}
+
+.buzz{
+    background-color: rgb(217, 217, 119);
+}
+
+.fizzbuzz{
+    background-color: rgb(221, 97, 97);
+}
